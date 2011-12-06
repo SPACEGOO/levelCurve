@@ -1,4 +1,8 @@
-#this is our levelCurve Project.
-#To use it : include SPACEGOOLevelCurve in your javascript code
-# then you can make CTX.levelCurve(fonction, x, y, w, h, depth[7], debug[false])# send feedback to contact@spacegoo.com
+SPACEGOO LEVEL CURVE ADDED TO CANVAS
+Allows you to draw ellipse or any implicit curve
+Based on a quadtree & marching squares approach
+
+this is our levelCurve Project.
+To use it : include SPACEGOOLevelCurve in your javascript code
+then you can make CTX.levelCurve(fonction, x, y, w, h, depth[7], debug[false])# send feedback to contact@spacegoo.com
 
